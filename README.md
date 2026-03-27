@@ -1,4 +1,5 @@
 **Clinical Data Automation - Medidata Rave to CDISC SDTM**
+
 **Objective**: To bridge the gap between Clinical Study Build and Regulatory Submission by automating the transformation of raw EDC exports into SDTM-compliant datasets.
 
 **Key Features**
